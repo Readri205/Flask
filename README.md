@@ -674,6 +674,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 
   - V1.0 Initial Commit
   - V1.1 Update character information in About Page
+  _ V1.2 Add content from json, loop, for and if statements
 
 ---
 
