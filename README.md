@@ -673,6 +673,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 - All through the development phase of the project, commits have been made from the GitPod Repository to GitHub. The version control list below mirrors the GitHub Commit list. It is designed to provide a direct track on commits in the README file for easy access as to code status in GitPod. Note that feedback from MS1 Project was received on July 8th, 2020 which stated that commits should be in the imperative tense. Any commits after this date (approx. V6.4) that are not in the imperative is in error.
 
   - V1.0 Initial Commit
+  - V1.1 Update character information in About Page
 
 ---
 
