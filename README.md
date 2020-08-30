@@ -1,10 +1,10 @@
 # **EARTH AFRICA :earth_africa:**
 
-![alt text](https://readri205.github.io/MS2_Project/assets/images/amiresponsivecamels.png "Africa")
+![alt text]("")
 
-[View the live **EARTH AFRICA** :earth_africa: project here.](https://readri205.github.io/MS2_Project/)
+[View the live project here.](https://readri205.github.io/Flask/)
 
-![alt text](https://readri205.github.io/MS2_Project/assets/images/title3.jpg "Africa Logo")
+![alt text]("")
 
 ## Contents
 
@@ -674,7 +674,8 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 
   - V1.0 Initial Commit
   - V1.1 Update character information in About Page
-  _ V1.2 Add content from json, loop, for and if statements
+  - V1.2 Add content from json, loop, for and if statements
+  - V1.3 Add link to website and text amend to README.md
 
 ---
 
