@@ -677,6 +677,9 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V1.2 Add content from json, loop, for and if statements
   - V1.3 Add link to website and text amend to README.md
   - V1.4 Add contact form to contact page
+  - V1.5 Add requirements file
+  - V1.6 Add requirements file
+  - V1.7 Add Procfile
 
 ---
 
