@@ -1,10 +1,8 @@
 # **EARTH AFRICA :earth_africa:**
 
-![alt text]("")
 
-[View the live project here.](https://readri205.github.io/Flask/)
+[View the live project here.](https://thorin-and-company-read205.herokuapp.com/)
 
-![alt text]("")
 
 ## Contents
 
@@ -680,6 +678,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V1.5 Add requirements file
   - V1.6 Add requirements file
   - V1.7 Add Procfile
+  - V1.8 Add project web link in README.txt
 
 ---
 
