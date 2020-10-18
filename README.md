@@ -679,7 +679,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V1.6 Add requirements file
   - V1.7 Add Procfile
   - V1.8 Add project web link in README.txt
-
+  - V1.9 Update Thorin image
 ---
 
 <b id="f1">1</b> **&** <b id="f2">2</b> **Future Features** in the [README.md](https://github.com/Readri205/MS2_Project/blob/master/README.md) identifies that a 'quick search' could be placed at the top of both the 'Home' page and the 'Country Details' page to facilitate regular and frequent users. Regular and frequent users may wish to immediately see the details for any particular country as soon as they come onto the site. This allows quick access to Country search rather than having to scroll down to the bottom of the page. 1[↩](#a1);2[↩](#a2)
